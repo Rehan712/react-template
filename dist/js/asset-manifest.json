@@ -1,0 +1,5 @@
+{
+  "main.css": "../css/styles.css",
+  "main.js": "bundle.js",
+  "bundle.js.gz": "bundle.js.gz"
+}
